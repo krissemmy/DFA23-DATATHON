@@ -137,6 +137,7 @@ for sql in query_1:
     except Exception as e:
         print("Error during data insertion:", str(e))
         con.rollback()
-    finally:
-        con.close()
+
+
+con.close()
 
