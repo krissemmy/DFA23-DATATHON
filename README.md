@@ -23,7 +23,7 @@ Before running this code, make sure you have the following prerequisites in plac
 Clone this repository to your local machine:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/krissemmy/DFA23-DATATHON.git
 ```
 Install the required Python libraries using pip:
 
